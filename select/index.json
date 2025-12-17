@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Wonderment!!!!!",
+  "base_artist": "CleeNoah",
+  "createdAt": "2025-12-17T12:57:58.231868Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wonderment",
+      "artist": "Chastity Brown",
+      "has_synced": true,
+      "path": "select/01_Wonderment_Chastity_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wonderment",
+      "artist": "Miracle Legion",
+      "has_synced": false,
+      "path": "select/02_Wonderment_Miracle_Legion.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wonderment!!!!!",
+      "artist": "CleeNoah",
+      "has_synced": false,
+      "path": "select/pl_01_Wonderment!!!!!_CleeNoah.txt"
+    }
+  ]
+}
