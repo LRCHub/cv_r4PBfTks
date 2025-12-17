@@ -1,0 +1,75 @@
+# CleeNoah – Wonderment!!!!!
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+クリティカルな歴史刻む
+乗り遅れるな Are you ready!?
+1 (One!) 2 (Two!) 3 (Three!) 4 (Four!)
+ABC to the Z やったもん勝ち Go!
+音速で風切って登場　飛び跳ねドレミ末期症状
+To the 頂上からモーション　威風堂々
+傍から見ればファンキー騒動
+先制宣誓　さながらブレーメン
+ブリバリボルテージ　お馴染みの面々
+けたたましく唸る　鮮やかなシグナル
+楽々　ご自慢の美声で打ち砕く
+右から左　徹頭徹尾　鳴りやまないぜ　エンドレス
+ビート
+だらけさせないさ　竜頭竜尾　俺らに任せりゃずっと
+Groovy
+びっくりサプライズ　甘く見ちゃ危ない
+淡々と狂喜乱舞企むナイト
+まだまだまだ　はじまりの合図
+超性能　フォーメーション
+前進あるのみの一行　切り替え出来ない青信号
+逆境でも特攻だろ　いつでもどこでも Fly
+ビリビリ雷警報　渦巻く輪になり Take off
+銀河へ導く　我らの歌で
+Wonderment 幸せが芽吹く音
+聞こえたら Clap clap clap clap (Yeah!)
+Wonderment ともに見つけよう
+カラフルクローバー
+Wah...!
+Wonderment ありきたり上等のショーケース
+Wonderment ツメ隠さない系の Four men
+Wonderment クレバー気取りクローバーの共鳴
+即効速攻 So called 天辺まで導く Right?
+Easy breezy flow
+バロメーター　上機嫌で振り切れば
+Better & better, Never ever, Danger danger
+発火着火点火　はちゃめちゃ結果巻き起こす
+Make a fire 至るメッカ
+センター勝ち取る力量の魑魅魍魎打ち負かす
+俺ら揃い踏みだ
+自由にやっちゃう　宙に浮かんだ Music & Dance
+邪魔者なら振り払う
+全身全霊いざ決行　満員御礼への BET
+鬼の居ぬ間にイニミニマニモで Blight
+奏でる　神々へも響かすバキバキ低音
+進化止まらない　我らの宴
+Wonderment 幸せが芽吹く音
+聞こえたら Clap clap clap clap (Yeah!)
+Wonderment ともに見つけよう
+カラフルクローバー
+1,2,3,4
+恥じらいなんて捨てちゃって Say yeah! (Yeah!)
+俺らに負けず声だして Say yeah! (Yeah!)
+足りないなんて言わせないで Say yeah! (Yeah!)
+最後は声揃え唱えよう
+1,2,3,4
+Wonderment 幸せが芽吹く音
+聞こえたら Clap clap clap clap (Yeah!)
+Wonderment ともに見つけよう
+カラフルクローバー
+Wah...!
+Wonderment ありきたり上等のショーケース
+Wonderment ツメ隠さない系の Four men
+Wonderment クレバー気取りクローバーの共鳴
+即効速攻 So called 天辺まで導く Right?
+肺がはち切れるまで
+後先忘れ歌え
+本能以外消えるまで
+最後は声揃え唱えよう
+1,2,3,4
+```
